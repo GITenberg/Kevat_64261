@@ -1,5 +1,5 @@
 _repo: Kevat_64261
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Jaakkola, Väinö
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '40868'
     url: http://www.gutenberg.org/2009/agents/40868
     wikipedia: https://fi.wikipedia.org/wiki/Väinö_Jaakkola
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Undset, Sigrid
@@ -24,6 +27,8 @@ creator:
     - https://no.wikipedia.org/wiki/Sigrid_Undset
     - https://fi.wikipedia.org/wiki/Sigrid_Undset
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64261#Kevat
 gutenberg_issued: '2021-01-11'
 gutenberg_type: Text
 identifiers:
