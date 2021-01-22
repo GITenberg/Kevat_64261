@@ -1,0 +1,38 @@
+_repo: Kevat_64261
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jaakkola, Väinö
+    alias: Jaakkola, Vaino
+    birthdate: 1888
+    deathdate: 1942
+    gutenberg_agent_id: '40868'
+    url: http://www.gutenberg.org/2009/agents/40868
+    wikipedia: https://fi.wikipedia.org/wiki/Väinö_Jaakkola
+creator:
+  author:
+    agent_name: Undset, Sigrid
+    aliases:
+    - Svarstad, Sigrid Undset
+    - Unset, Sigrid
+    birthdate: 1882
+    deathdate: 1949
+    gutenberg_agent_id: '35742'
+    url: http://www.gutenberg.org/2009/agents/35742
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Sigrid_Undset
+    - https://no.wikipedia.org/wiki/Sigrid_Undset
+    - https://fi.wikipedia.org/wiki/Sigrid_Undset
+description: ''
+gutenberg_issued: '2021-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64261'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kevät
+url: http://www.gutenberg.org/ebooks/64261
